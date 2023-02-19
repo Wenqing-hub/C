@@ -1,2 +1,0 @@
-
-int calculateAge(int year);
